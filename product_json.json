@@ -1,0 +1,7 @@
+[
+    { "Name": "Samsung Mobile" , "Price": 50000 , "Quantity": 10},
+    { "Name": "Redme Mobile" , "Price": 40000 , "Quantity": 10},
+    { "Name": "Oppo Mobile" , "Price": 30000 , "Quantity": 10},
+    { "Name": "Poco Mobile" , "Price": 20000 , "Quantity": 10},
+    { "Name": "iphone Mobile" , "Price": 100000 , "Quantity": 10}
+]
